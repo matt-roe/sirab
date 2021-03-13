@@ -1,7 +1,7 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
+  "name": "Sirab",
+  "shortName": "Sirab",
+  "description": "Sirab blog",
   "themeColor": "#0b3765",
   "backgroundColor": "#ffffff",
   "lang": "en"
